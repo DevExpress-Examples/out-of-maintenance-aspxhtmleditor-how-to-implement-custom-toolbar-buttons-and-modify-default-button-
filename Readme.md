@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HtmlEditor.aspx](./CS/DXWebApplication1/HtmlEditor.aspx) (VB: [HtmlEditor.aspx](./VB/DXWebApplication1/HtmlEditor.aspx))
+<!-- default file list end -->
 # ASPxHtmlEditor - How to implement custom toolbar buttons and modify default button functionality
 
 
