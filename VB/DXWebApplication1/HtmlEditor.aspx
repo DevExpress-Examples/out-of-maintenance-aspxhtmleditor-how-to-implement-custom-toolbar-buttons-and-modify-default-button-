@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="HtmlEditor.aspx.vb" Inherits="DXWebApplication1.HtmlEditor" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeBehind="HtmlEditor.aspx.vb" Inherits="DXWebApplication1.HtmlEditor" %>
 <%@ Register assembly="DevExpress.Web.ASPxHtmlEditor.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxHtmlEditor" tagprefix="dx" %>
 
 <%@ Register assembly="DevExpress.Web.ASPxSpellChecker.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxSpellChecker" tagprefix="dx" %>
@@ -35,7 +35,7 @@
             }
         }
     </script>
-
+            
         <dx:ASPxHtmlEditor ID="DemoHtmlEditor" ClientInstanceName="HtmlEditor" runat="server">
             <Toolbars>
                 <dx:HtmlEditorToolbar>
